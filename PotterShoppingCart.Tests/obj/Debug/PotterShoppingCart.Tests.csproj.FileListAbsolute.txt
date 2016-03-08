@@ -1,0 +1,7 @@
+C:\Users\ms6930\Documents\Visual Studio 2013\Projects\day2-lab-source\day2-homework\PotterShoppingCart\PotterShoppingCart.Tests\obj\Debug\PotterShoppingCart.Tests.csprojResolveAssemblyReference.cache
+C:\Users\ms6930\Documents\Visual Studio 2013\Projects\day2-lab-source\day2-homework\PotterShoppingCart\PotterShoppingCart.Tests\bin\Debug\PotterShoppingCart.Tests.dll
+C:\Users\ms6930\Documents\Visual Studio 2013\Projects\day2-lab-source\day2-homework\PotterShoppingCart\PotterShoppingCart.Tests\bin\Debug\PotterShoppingCart.Tests.pdb
+C:\Users\ms6930\Documents\Visual Studio 2013\Projects\day2-lab-source\day2-homework\PotterShoppingCart\PotterShoppingCart.Tests\bin\Debug\PotterShoppingCart.dll
+C:\Users\ms6930\Documents\Visual Studio 2013\Projects\day2-lab-source\day2-homework\PotterShoppingCart\PotterShoppingCart.Tests\bin\Debug\PotterShoppingCart.pdb
+C:\Users\ms6930\Documents\Visual Studio 2013\Projects\day2-lab-source\day2-homework\PotterShoppingCart\PotterShoppingCart.Tests\obj\Debug\PotterShoppingCart.Tests.dll
+C:\Users\ms6930\Documents\Visual Studio 2013\Projects\day2-lab-source\day2-homework\PotterShoppingCart\PotterShoppingCart.Tests\obj\Debug\PotterShoppingCart.Tests.pdb
